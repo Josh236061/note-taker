@@ -33,6 +33,9 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 
 ![image](https://user-images.githubusercontent.com/71394743/198110425-c091c163-208e-496f-a3f7-a67f8e1361d6.png)
 
+![image](https://user-images.githubusercontent.com/71394743/198114476-2c87ea96-463d-491a-afb7-cb0d72e8bee1.png)
+
+
 
 ## Links
 
