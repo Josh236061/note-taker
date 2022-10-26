@@ -36,6 +36,6 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 
 ## Links
 
-GitHub Repo URL:
+GitHub Repo URL: https://github.com/Josh236061/note-taker
 
-Video Walkthrough URL: 
+Published Website URL: 
