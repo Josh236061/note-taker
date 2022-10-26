@@ -31,6 +31,9 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 
 ## Screenshot(s)
 
+![image](https://user-images.githubusercontent.com/71394743/198110425-c091c163-208e-496f-a3f7-a67f8e1361d6.png)
+
+
 ## Links
 
 GitHub Repo URL:
